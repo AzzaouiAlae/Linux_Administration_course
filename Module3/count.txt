@@ -13,9 +13,3 @@ inode.txt						=	1
 13-List+files+and+directories				=	1
 Module+3						=	1
 
-
-docker pull mcr.microsoft.com/dotnet/sdk:9.0 i want to install this in /tmp
-sudo vim /etc/docker/daemon.json
-
-{"data-root": "/goinfre/aazzaoui/docker/"}
-{"data-root": "/tmp/docker/"}
