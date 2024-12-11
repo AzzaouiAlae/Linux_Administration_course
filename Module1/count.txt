@@ -1,6 +1,0 @@
-History+of+Unix		=	4
-Inside+Linux		=	4
-Operating+system	=	4
-Parts+of+OS		=	4
-Virtual+memory		=	4
-Module+1		=	4

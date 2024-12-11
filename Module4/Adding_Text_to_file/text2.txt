@@ -1,2 +1,0 @@
-hello
-/home/aazzaoui/Desktop/cources/Linux_Administration_course/Module4/Adding_Text_to_file

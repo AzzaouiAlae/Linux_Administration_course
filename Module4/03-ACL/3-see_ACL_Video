@@ -1,6 +1,0 @@
-group/user = g/u
-command	option u/g:UserName/GroupeName:Permissions fileName
-setfacl -m		u:aazzaoui:rw			tx
-setfacl -m g:aazzaoui:rw tx
-getfacl tx
-setfacl -x u:aazzaoui tx
