@@ -1,0 +1,21 @@
+1-Linux+Structure					=	4
+3-Linux+vs+Windows					=	4
+4-Logging+On+To+System					=	4
+5-Linux+File+System					=	4
+6-File+System+Detail					=	4
+7-File+Names						=	3
+8-Passwords+Standards					=	3
+9-Change+Password+in+Linux				=	3
+10-Difference-between-locate-and-find-command-in-Linux	=	1
+11-Wildcards						=	1
+12-Soft+Link+and+Hard+Links				=	1
+inode.txt						=	1
+13-List+files+and+directories				=	1
+Module+3						=	1
+
+
+docker pull mcr.microsoft.com/dotnet/sdk:9.0 i want to install this in /tmp
+sudo vim /etc/docker/daemon.json
+
+{"data-root": "/goinfre/aazzaoui/docker/"}
+{"data-root": "/tmp/docker/"}
