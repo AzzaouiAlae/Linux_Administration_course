@@ -7,14 +7,12 @@ pwd (1)              - print name of current/working directory
 ls (1)               - list directory contents
 passwd (1)           - update user's authentication tokens
 touch (1p)           - change file access and modification times
-cp (1)               - copy files and directories
 vi (1p)              - screen-oriented (visual) display editor
 mkdir (1)            - make directories
 find (1)             - search for files in a directory hierarchy
 locate (1)           - find files by name
 updatedb (8)         - update a database for mlocate
 ln (1)               - make links between files
-chmod (1)            - change file mode bits
 chmod (2)            - change permissions of a file
 chown (1)            - change file owner and group
 chgrp (1p)           - change the file group ownership
@@ -54,9 +52,7 @@ groupadd (8)         - create a new group
 userdel (8)          - delete a user account and related files
 groupdel (8)         - delete a group
 usermod (8)          - modify a user account
-passwd (5)           - password file
-passwd (1ossl)       - OpenSSL application commands
-/etc/passwd (1)      - update user's authentication tokens
+/etc/passwd (1)      - password file
 /etc/group (5)       - user group file
 /etc/shadow (3)      - encrypted password file routines
 chage (1)            - change user password expiry information - file /etc/login.def
@@ -103,3 +99,13 @@ init (1)             - systemd system and service manager
 reboot (2)           - reboot or enable/disable Ctrl-Alt-Del
 halt (8)             - Halt, power-off or reboot the machine
 hostnamectl (1)      - Control the system hostname
+dmidecode (8)        - DMI table decoder
+arch (1)             - print machine hardware name (same as uname -m)
+exit (3)             - cause normal process termination
+script (1)           - make typescript of terminal session
+sos (1)              - A unified tool for collecting system logs and other debug information
+sosreport (1)        - Collect and package diagnostic and support data
+setuid (2)           - set user identity
+setgid (2)           - set group identity
+whoami (1)           - print effective userid
+du (1)               - estimate file space usage

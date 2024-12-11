@@ -1,0 +1,14 @@
+#!/bin/bash
+
+hosts_file="hosts_list.txt"
+hosts=$(cat $hosts_file)
+for host in $hosts
+do
+	ping -c1 $host &> /dev/null
+	if [ $? -eq 0 ]
+	then
+		echo -e "$host \e[32mOK\e[0m"
+	else
+		echo -e "$host \e[31mNOT OK\e[0m"
+	fi
+done

@@ -1,0 +1,10 @@
+#!/bin/bash
+
+user_str=`whoami`
+host_str=`hostname`
+if [ $user_str == "aazzaoui" ]
+then
+	echo you are in the right account
+else
+	echo -e "becareful you are in user=\e[31m$user_str\e[0m in host=\e[31m$host_str\e[0m"
+fi

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo -n "what is your first name: "
+read a
+echo -n "what is your last name: "
+read b
+echo "Hello $a $b"

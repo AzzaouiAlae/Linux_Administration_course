@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for var2 in {1..9}
+do
+	echo $var2
+done

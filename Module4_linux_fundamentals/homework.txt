@@ -1,0 +1,61 @@
+Read chmod chown chgrp man use same options
+Read setfacl getfacl man and use same options
+Practice Linux command syntax with command, options and arguments
+
+List files in your home directory by the last time they were modified
+
+Move jerry, george, kramer and puddy files into seinfeld directory
+
+Move homer, bart, marge, lisa files in simpsons directory
+
+Move clark, luther and lois files in superman directory
+
+List the content of seinfeld directory by the last time they were modified
+
+Create 2 new files in seinfeld directory, eliane and newman
+
+change file permission of eliane to remove read access from everyone
+
+change file permission of newman to add write permissions to only group
+
+Become root and cd into your home directory (e.g. /home/iafzal). Then create 2 new files superman and zad in superman directory
+
+Change ownership of zad file from root to your username
+
+Change group ownership of zad from root to your username
+
+Then move superman file to /tmp directory
+
+Remove superman file from /tmp directory
+
+Exit out of root account
+
+Go back to superman directory in your home directory and add this line to zad file "zad is a bad character in superman movie"
+
+Then go seinfeld directory and create a new file seinfeld.  
+
+Add 5 seinfeld characters name in seinfeld file. Jerry Seinfeld, George Costanza, Eliane Benis, Cosmo Kramer, and David Puddy
+
+Become root user again
+
+Do cat /var/log/messages and output to a file called mesg-new in your home directory (e.g. /home/iafzal)
+
+Read the mesg-new file with cat, more and less commands and practice
+
+View the first 10 lines of mesg-new file and output to a file name mesg-h10
+
+View the last 20 lines of mesg-new file and output to a file name mesg-t20
+
+Exit out of root user
+
+Go to seinfeld directory in your home directory and create a new file"seinfeld-characters"
+
+Add text to seinfeld-character file using echo command.  Each character  should be in one line, "Jerry Seinfeld, Cosmo Kramer, Eliane Benes,  George Costanza, Newman Mailman, Frank Costanza, Estelle Costanza, Morty  Seinfeld, Helen Seinfeld, Babes Kramer, Alton Benes, J Peterman, George  Steinbrenner, Uncle Leo, David Puddy, Justin Pit and Kenny Bania"
+
+Use cut command to cut the first 4 letters of each line from seinfeld-characters file and output to a different file name (name = filters-files)
+
+Use awk command to get only the 2nd column of seinfeld-characters and output to the filters-files without removing any other text from it
+
+Use grep command to only grep seinfeld and output to a new file call it seinfeld-family
+
+Use sort command, uniq and wc command to practice whichever way you like by creating new files or working with existing files

@@ -1,0 +1,10 @@
+#!/bin/bash
+
+a=alae
+b=azzaoui
+c='Linux class'
+
+echo "My firstname is $b"
+echo "My lastname is $a"
+echo "I am in $c"
+
