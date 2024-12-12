@@ -1,5 +1,0 @@
-#!/bin/bash
-
-a=`ls -ltr`
-
-echo -e "$a"

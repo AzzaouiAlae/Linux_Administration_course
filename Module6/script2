@@ -1,8 +1,0 @@
-#!/bin/bash
-
-echo -ne "whoami\t\t"
-whoami
-echo -ne "hostname\t"
-hostname
-echo -ne "pwd\t\t"
-pwd

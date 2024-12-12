@@ -1,8 +1,0 @@
-#!/bin/bash
-
-date
-a=`hostname`
-echo -e "Hello, my server is $a\n"
-echo -n "what is your name: "
-read str_name
-echo -e "\nHello $str_name\n"
