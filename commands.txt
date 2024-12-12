@@ -111,3 +111,4 @@ whoami (1)           - print effective userid
 du (1)               - estimate file space usage
 setfacl (1)          - set file access control lists
 getfacl (1)          - get file access control lists
+ping (8)             - send ICMP ECHO_REQUEST to network hosts

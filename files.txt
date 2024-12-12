@@ -1,0 +1,6 @@
+/etc/nsswitch.conf
+/etc/hosts
+/etc/network
+/etc/sysconfig/network-scripts/
+/etc/NetworkManager/system-connections/
+
