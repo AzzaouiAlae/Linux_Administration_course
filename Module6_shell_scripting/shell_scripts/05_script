@@ -1,0 +1,6 @@
+#!/bin/bash
+
+clear
+echo -e "Hello `whoami`\n"
+echo -e "Today is `date`\n"
+echo -e "Number of user login: `who | wc -l`"

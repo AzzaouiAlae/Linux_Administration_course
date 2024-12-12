@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo -e "Enter the file name to be renamed"
+echo -n "Enter old name: "
+read file_name
+echo -n "Enter new name: "
+read new_name
+mv $file_name $new_name
+echo "file name change"
+ls -l | grep " $new_name$"
+

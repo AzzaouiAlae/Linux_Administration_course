@@ -2,3 +2,9 @@
 02-What+is+a+Shell	=	0
 03-Unix+Shell+Scripting	=	0
 04-Basic+Shell+Scripts	=	0
+05-for+loop+Scripts	=	0
+06-do-while+Scripts	=	0
+07-if-then+Scripts	=	0
+08-case+Scripts		=	0
+09-Aliases		=	0
+00-Module-6		=	0

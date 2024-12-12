@@ -1,0 +1,15 @@
+#!/bin/bash
+
+clear
+echo -en "\nWhat is your name: "
+read NAME
+echo -e "Hello $NAME\n"
+echo -n "Do you like working in IT? (y/n): "
+read Like
+if [ "$Like" == y ]
+then 
+	echo -e "You are cool\n"
+elif [ "$Like" == n ]
+then
+	echo -e "You should try IT, it's a good field\n"
+fi
