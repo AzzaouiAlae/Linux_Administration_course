@@ -112,3 +112,6 @@ du (1)               - estimate file space usage
 setfacl (1)          - set file access control lists
 getfacl (1)          - get file access control lists
 ping (8)             - send ICMP ECHO_REQUEST to network hosts
+netstat (8)          - Print network connections, routing tables, interface statistics, masquerade connections, and multicast memberships
+tcpdump (8)          - dump traffic on a network
+ethtool (8)          - query or control network driver and hardware settings
