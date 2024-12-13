@@ -1,0 +1,10 @@
+#!/bin/bash
+
+while [ 1 -eq 1 ]
+do
+	
+	sleep 10
+	echo -n "time is "
+	date +"%T"
+	echo -e "10 sec has go\n"
+done
