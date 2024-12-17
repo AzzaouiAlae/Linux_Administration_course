@@ -3,4 +3,7 @@
 /etc/network
 /etc/sysconfig/network-scripts/
 /etc/NetworkManager/system-connections/
-
+/etc/passwd (1)      - password file
+/etc/group (5)       - user group file
+/etc/shadow (3)      - encrypted password file routines
+/etc/login.def

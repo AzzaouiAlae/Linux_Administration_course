@@ -11,7 +11,7 @@ vi (1p)              - screen-oriented (visual) display editor
 mkdir (1)            - make directories
 find (1)             - search for files in a directory hierarchy
 locate (1)           - find files by name
-updatedb (8)         - update a database for mlocate
+updatedb (8)         - update a database for mlocate (locate)
 ln (1)               - make links between files
 chmod (2)            - change permissions of a file
 chown (1)            - change file owner and group
@@ -51,11 +51,7 @@ useradd (8)          - create a new user or update default new user information
 groupadd (8)         - create a new group
 userdel (8)          - delete a user account and related files
 groupdel (8)         - delete a group
-usermod (8)          - modify a user account
-/etc/passwd (1)      - password file
-/etc/group (5)       - user group file
-/etc/shadow (3)      - encrypted password file routines
-chage (1)            - change user password expiry information - file /etc/login.def
+chage (1)            - change user password expiry information 
 su (1)               - run a command with substitute user and group ID
 sudo (8)             - execute a command as another user
 visudo (8)           - edit the sudoers file
