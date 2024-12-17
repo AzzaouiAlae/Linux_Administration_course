@@ -101,8 +101,6 @@ exit (3)             - cause normal process termination
 script (1)           - make typescript of terminal session
 sos (1)              - A unified tool for collecting system logs and other debug information
 sosreport (1)        - Collect and package diagnostic and support data
-setuid (2)           - set user identity
-setgid (2)           - set group identity
 whoami (1)           - print effective userid
 du (1)               - estimate file space usage
 setfacl (1)          - set file access control lists
