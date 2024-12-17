@@ -18,7 +18,7 @@ chown (1)            - change file owner and group
 chgrp (1p)           - change the file group ownership
 whatis (1)           - display one-line manual page descriptions
 man (1p)             - display system documentation
-echo (1)             - display a line of text color=>echo -e "\e[31m\e[0m"
+echo (1)             - display a line of text; color=>echo -e "\e[31m\e[0m"
 cat (1)              - concatenate files and print on the standard output
 Mail (1)             - send and receive Internet mail
 telnet (1)           - user interface to the TELNET protocol
