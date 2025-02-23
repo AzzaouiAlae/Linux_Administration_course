@@ -1,7 +1,3 @@
-Below is a revised version of your README with a clearer structure, professional tone, and enhanced formatting:
-
----
-
 # Complete Linux Training Course
 
 This repository contains my notes and resources for the **Complete Linux Training Course**. I took this course on Udemy before starting my "Born To Be Root" project. If you're interested in the original course, you can find it here:  
